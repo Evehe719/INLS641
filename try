@@ -1,0 +1,161 @@
+	Publisher	Year	total_sales	rank
+1	Nintendo	1985	49.95	1
+2	Namco Bandai Games	1985	1.46	2
+3	Hudson Soft	1985	1.03	3
+4	Capcom	1985	1	4
+5	Activision	1985	0.48	5
+6	Nintendo	1986	16.18	1
+7	Capcom	1986	5.3	2
+8	Namco Bandai Games	1986	5.28	3
+9	Konami Digital Entertainment	1986	4.99	4
+10	Hudson Soft	1986	4.66	5
+11	Nintendo	1987	11.95	1
+12	Namco Bandai Games	1987	2.67	2
+13	Enix Corporation	1987	2.56	3
+14	Activision	1987	1.12	4
+15	Konami Digital Entertainment	1987	0.93	5
+16	Nintendo	1988	36.44	1
+17	Enix Corporation	1988	3.87	2
+18	Capcom	1988	2.94	3
+19	Namco Bandai Games	1988	2.43	4
+20	SquareSoft	1988	0.76	5
+21	Nintendo	1989	63.88	1
+22	Palcom	1989	4.17	2
+23	Capcom	1989	1.67	3
+24	Namco Bandai Games	1989	1.1	4
+25	SquareSoft	1989	1.1	5
+26	Nintendo	1990	35.49	1
+27	Capcom	1990	3.92	2
+28	Enix Corporation	1990	3.12	3
+29	Sega	1990	2.6	4
+30	Konami Digital Entertainment	1990	2.23	5
+31	Nintendo	1991	15.97	1
+32	Sega	1991	4.34	2
+33	Konami Digital Entertainment	1991	2.56	3
+34	Capcom	1991	2.23	4
+35	Square	1991	1.77	5
+36	Nintendo	1992	38.11	1
+37	Capcom	1992	12.4	2
+38	Sega	1992	7.98	3
+39	Arena Entertainment	1992	4.72	4
+40	SquareSoft	1992	3.42	5
+41	Nintendo	1993	20.04	1
+42	Namco Bandai Games	1993	5.38	2
+43	Capcom	1993	4.85	3
+44	SquareSoft	1993	3	4
+45	Acclaim Entertainment	1993	1.93	5
+46	Nintendo	1994	24.99	1
+47	Sega	1994	7.53	2
+48	Virgin Interactive	1994	6.81	3
+49	Acclaim Entertainment	1994	5.74	4
+50	SquareSoft	1994	3.74	5
+51	Sony Computer Entertainment	1995	18.45	1
+52	Nintendo	1995	16.72	2
+53	Sega	1995	7.93	3
+54	SquareSoft	1995	5.1	4
+55	Activision	1995	4.21	5
+56	Nintendo	1996	73.7	1
+57	Sony Computer Entertainment	1996	35.07	2
+58	Virgin Interactive	1996	14.83	3
+59	Electronic Arts	1996	7.9	4
+60	Eidos Interactive	1996	5.89	5
+61	Sony Computer Entertainment	1997	43.9	1
+62	Nintendo	1997	25.8	2
+63	Electronic Arts	1997	22.94	3
+64	Eidos Interactive	1997	13.55	4
+65	SquareSoft	1997	6.68	5
+66	Nintendo	1998	48.41	1
+67	Sony Computer Entertainment	1998	34.64	2
+68	Electronic Arts	1998	29.95	3
+69	Konami Digital Entertainment	1998	15.39	4
+70	Acclaim Entertainment	1998	13.71	5
+71	Nintendo	1999	65.33	1
+72	Sony Computer Entertainment	1999	36.24	2
+73	Electronic Arts	1999	20.15	3
+74	Konami Digital Entertainment	1999	15.26	4
+75	SquareSoft	1999	13.52	5
+76	Nintendo	2000	34.05	1
+77	Electronic Arts	2000	25.13	2
+78	Sony Computer Entertainment	2000	21.69	3
+79	THQ	2000	15.86	4
+80	Activision	2000	14.48	5
+81	Nintendo	2001	45.37	1
+82	Electronic Arts	2001	45.12	2
+83	Sony Computer Entertainment	2001	43.29	3
+84	THQ	2001	22.25	4
+85	Konami Digital Entertainment	2001	21.89	5
+86	Electronic Arts	2002	73.01	1
+87	Nintendo	2002	48.31	2
+88	THQ	2002	26.88	3
+89	Activision	2002	25.94	4
+90	Sony Computer Entertainment	2002	25.85	5
+91	Electronic Arts	2003	69.83	1
+92	Nintendo	2003	38.14	2
+93	THQ	2003	29.38	3
+94	Sony Computer Entertainment	2003	24.32	4
+95	Activision	2003	21.38	5
+96	Electronic Arts	2004	67.33	1
+97	Nintendo	2004	60.65	2
+98	Activision	2004	39.23	3
+99	Sony Computer Entertainment	2004	35.16	4
+100	THQ	2004	28.69	5
+101	Nintendo	2005	127.47	1
+102	Electronic Arts	2005	67.01	2
+103	Activision	2005	35.39	3
+104	Sony Computer Entertainment	2005	26.38	4
+105	Take-Two Interactive	2005	26.29	5
+106	Nintendo	2006	205.61	1
+107	Electronic Arts	2006	58.41	2
+108	Sony Computer Entertainment	2006	33.81	3
+109	THQ	2006	24.94	4
+110	Take-Two Interactive	2006	20.59	5
+111	Nintendo	2007	104.18	1
+112	Electronic Arts	2007	71.33	2
+113	Activision	2007	63.57	3
+114	Ubisoft	2007	48.6	4
+115	Sony Computer Entertainment	2007	37.54	5
+116	Nintendo	2008	91.22	1
+117	Electronic Arts	2008	84.12	2
+118	Activision	2008	67.41	3
+119	Ubisoft	2008	57.44	4
+120	Take-Two Interactive	2008	46.18	5
+121	Nintendo	2009	128.89	1
+122	Electronic Arts	2009	86.2	2
+123	Activision	2009	78.06	3
+124	Ubisoft	2009	47.01	4
+125	Sony Computer Entertainment	2009	36.53	5
+126	Electronic Arts	2010	81.38	1
+127	Activision	2010	63.39	2
+128	Nintendo	2010	61.07	3
+129	Microsoft Game Studios	2010	49.16	4
+130	Ubisoft	2010	42.62	5
+131	Electronic Arts	2011	72.25	1
+132	Activision	2011	51.74	2
+133	Nintendo	2011	51.53	3
+134	Ubisoft	2011	48.03	4
+135	Sony Computer Entertainment	2011	27.4	5
+136	Nintendo	2012	56.47	1
+137	Activision	2012	53.25	2
+138	Electronic Arts	2012	49.9	3
+139	Ubisoft	2012	37.31	4
+140	Take-Two Interactive	2012	21.58	5
+141	Electronic Arts	2013	52.92	1
+142	Nintendo	2013	52.79	2
+143	Take-Two Interactive	2013	52.41	3
+144	Activision	2013	43.49	4
+145	Ubisoft	2013	27.39	5
+146	Nintendo	2014	48.65	1
+147	Electronic Arts	2014	46.8	2
+148	Activision	2014	44.48	3
+149	Ubisoft	2014	41.95	4
+150	Take-Two Interactive	2014	30.26	5
+151	Electronic Arts	2015	45.42	1
+152	Activision	2015	35.63	2
+153	Nintendo	2015	27.08	3
+154	Warner Bros. Interactive Entertainment	2015	21.74	4
+155	Bethesda Softworks	2015	16.44	5
+156	Electronic Arts	2016	12.25	1
+157	Ubisoft	2016	9.76	2
+158	Sony Computer Entertainment	2016	6.56	3
+159	Namco Bandai Games	2016	6.49	4
+160	Activision	2016	3.67	5
