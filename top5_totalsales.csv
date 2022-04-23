@@ -1,0 +1,189 @@
+,Publisher,Year,total_sales
+1,Atari,1980.0,8.36
+2,Activision,1980.0,3.02
+3,Activision,1981.0,8.5
+4,Atari,1981.0,8.45
+5,Imagic,1981.0,4.82
+6,Parker Bros.,1981.0,3.35
+7,Coleco,1981.0,2.79
+8,Atari,1982.0,19.43
+9,Activision,1982.0,1.86
+10,Parker Bros.,1982.0,1.12
+11,Quelle,1982.0,0.87
+12,Universal Gamex,1982.0,0.63
+13,Nintendo,1983.0,10.96
+14,Atari,1983.0,3.39
+15,Activision,1983.0,1.94
+16,Parker Bros.,1983.0,0.5
+17,Nintendo,1984.0,45.56
+18,Namco Bandai Games,1984.0,3.43
+19,Hudson Soft,1984.0,1.1
+20,Activision,1984.0,0.27
+21,Nintendo,1985.0,49.95
+22,Namco Bandai Games,1985.0,1.46
+23,Hudson Soft,1985.0,1.03
+24,Capcom,1985.0,1
+25,Activision,1985.0,0.48
+26,Nintendo,1986.0,16.18
+27,Capcom,1986.0,5.3
+28,Namco Bandai Games,1986.0,5.28
+29,Konami Digital Entertainment,1986.0,4.99
+30,Hudson Soft,1986.0,4.66
+31,Nintendo,1987.0,11.95
+32,Namco Bandai Games,1987.0,2.67
+33,Enix Corporation,1987.0,2.56
+34,Activision,1987.0,1.12
+35,Konami Digital Entertainment,1987.0,0.93
+36,Nintendo,1988.0,36.44
+37,Enix Corporation,1988.0,3.87
+38,Capcom,1988.0,2.94
+39,Namco Bandai Games,1988.0,2.43
+40,SquareSoft,1988.0,0.76
+41,Nintendo,1989.0,63.88
+42,Palcom,1989.0,4.17
+43,Capcom,1989.0,1.67
+44,Namco Bandai Games,1989.0,1.1
+45,SquareSoft,1989.0,1.1
+46,Nintendo,1990.0,35.49
+47,Capcom,1990.0,3.92
+48,Enix Corporation,1990.0,3.12
+49,Sega,1990.0,2.6
+50,Konami Digital Entertainment,1990.0,2.23
+51,Nintendo,1991.0,15.97
+52,Sega,1991.0,4.34
+53,Konami Digital Entertainment,1991.0,2.56
+54,Capcom,1991.0,2.23
+55,Square,1991.0,1.77
+56,Nintendo,1992.0,38.11
+57,Capcom,1992.0,12.4
+58,Sega,1992.0,7.98
+59,Arena Entertainment,1992.0,4.72
+60,SquareSoft,1992.0,3.42
+61,Nintendo,1993.0,20.04
+62,Namco Bandai Games,1993.0,5.38
+63,Capcom,1993.0,4.85
+64,SquareSoft,1993.0,3
+65,Acclaim Entertainment,1993.0,1.93
+66,Nintendo,1994.0,24.99
+67,Sega,1994.0,7.53
+68,Virgin Interactive,1994.0,6.81
+69,Acclaim Entertainment,1994.0,5.74
+70,SquareSoft,1994.0,3.74
+71,Sony Computer Entertainment,1995.0,18.45
+72,Nintendo,1995.0,16.72
+73,Sega,1995.0,7.93
+74,SquareSoft,1995.0,5.1
+75,Activision,1995.0,4.21
+76,Nintendo,1996.0,73.7
+77,Sony Computer Entertainment,1996.0,35.07
+78,Virgin Interactive,1996.0,14.83
+79,Electronic Arts,1996.0,7.9
+80,Eidos Interactive,1996.0,5.89
+81,Sony Computer Entertainment,1997.0,43.9
+82,Nintendo,1997.0,25.8
+83,Electronic Arts,1997.0,22.94
+84,Eidos Interactive,1997.0,13.55
+85,SquareSoft,1997.0,6.68
+86,Nintendo,1998.0,48.41
+87,Sony Computer Entertainment,1998.0,34.64
+88,Electronic Arts,1998.0,29.95
+89,Konami Digital Entertainment,1998.0,15.39
+90,Acclaim Entertainment,1998.0,13.71
+91,Nintendo,1999.0,65.33
+92,Sony Computer Entertainment,1999.0,36.24
+93,Electronic Arts,1999.0,20.15
+94,Konami Digital Entertainment,1999.0,15.26
+95,SquareSoft,1999.0,13.52
+96,Nintendo,2000.0,34.05
+97,Electronic Arts,2000.0,25.13
+98,Sony Computer Entertainment,2000.0,21.69
+99,THQ,2000.0,15.86
+100,Activision,2000.0,14.48
+101,Nintendo,2001.0,45.37
+102,Electronic Arts,2001.0,45.12
+103,Sony Computer Entertainment,2001.0,43.29
+104,THQ,2001.0,22.25
+105,Konami Digital Entertainment,2001.0,21.89
+106,Electronic Arts,2002.0,73.01
+107,Nintendo,2002.0,48.31
+108,THQ,2002.0,26.88
+109,Activision,2002.0,25.94
+110,Sony Computer Entertainment,2002.0,25.85
+111,Electronic Arts,2003.0,69.83
+112,Nintendo,2003.0,38.14
+113,THQ,2003.0,29.38
+114,Sony Computer Entertainment,2003.0,24.32
+115,Activision,2003.0,21.38
+116,Electronic Arts,2004.0,67.33
+117,Nintendo,2004.0,60.65
+118,Activision,2004.0,39.23
+119,Sony Computer Entertainment,2004.0,35.16
+120,THQ,2004.0,28.69
+121,Nintendo,2005.0,127.47
+122,Electronic Arts,2005.0,67.01
+123,Activision,2005.0,35.39
+124,Sony Computer Entertainment,2005.0,26.38
+125,Take-Two Interactive,2005.0,26.29
+126,Nintendo,2006.0,205.61
+127,Electronic Arts,2006.0,58.41
+128,Sony Computer Entertainment,2006.0,33.81
+129,THQ,2006.0,24.94
+130,Take-Two Interactive,2006.0,20.59
+131,Nintendo,2007.0,104.18
+132,Electronic Arts,2007.0,71.33
+133,Activision,2007.0,63.57
+134,Ubisoft,2007.0,48.6
+135,Sony Computer Entertainment,2007.0,37.54
+136,Nintendo,2008.0,91.22
+137,Electronic Arts,2008.0,84.12
+138,Activision,2008.0,67.41
+139,Ubisoft,2008.0,57.44
+140,Take-Two Interactive,2008.0,46.18
+141,Nintendo,2009.0,128.89
+142,Electronic Arts,2009.0,86.2
+143,Activision,2009.0,78.06
+144,Ubisoft,2009.0,47.01
+145,Sony Computer Entertainment,2009.0,36.53
+146,Electronic Arts,2010.0,81.38
+147,Activision,2010.0,63.39
+148,Nintendo,2010.0,61.07
+149,Microsoft Game Studios,2010.0,49.16
+150,Ubisoft,2010.0,42.62
+151,Electronic Arts,2011.0,72.25
+152,Activision,2011.0,51.74
+153,Nintendo,2011.0,51.53
+154,Ubisoft,2011.0,48.03
+155,Sony Computer Entertainment,2011.0,27.4
+156,Nintendo,2012.0,56.47
+157,Activision,2012.0,53.25
+158,Electronic Arts,2012.0,49.9
+159,Ubisoft,2012.0,37.31
+160,Take-Two Interactive,2012.0,21.58
+161,Electronic Arts,2013.0,52.92
+162,Nintendo,2013.0,52.79
+163,Take-Two Interactive,2013.0,52.41
+164,Activision,2013.0,43.49
+165,Ubisoft,2013.0,27.39
+166,Nintendo,2014.0,48.65
+167,Electronic Arts,2014.0,46.8
+168,Activision,2014.0,44.48
+169,Ubisoft,2014.0,41.95
+170,Take-Two Interactive,2014.0,30.26
+171,Electronic Arts,2015.0,45.42
+172,Activision,2015.0,35.63
+173,Nintendo,2015.0,27.08
+174,Warner Bros. Interactive Entertainment,2015.0,21.74
+175,Bethesda Softworks,2015.0,16.44
+176,Electronic Arts,2016.0,12.25
+177,Ubisoft,2016.0,9.76
+178,Sony Computer Entertainment,2016.0,6.56
+179,Namco Bandai Games,2016.0,6.49
+180,Activision,2016.0,3.67
+181,Sega,2017.0,0.04
+182,Idea Factory,2017.0,0.01
+183,Ubisoft,2020.0,0.29
+184,Unknown,N/A,21.02
+185,Electronic Arts,N/A,16.93
+186,Warner Bros. Interactive Entertainment,N/A,11.55
+187,Atari,N/A,10.45
+188,N/A,N/A,6.49
